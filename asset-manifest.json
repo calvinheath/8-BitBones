@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/8-BitBones/static/css/main.2c8a7582.chunk.css",
-    "main.js": "/8-BitBones/static/js/main.86754799.chunk.js",
-    "main.js.map": "/8-BitBones/static/js/main.86754799.chunk.js.map",
+    "main.js": "/8-BitBones/static/js/main.e2c196e1.chunk.js",
+    "main.js.map": "/8-BitBones/static/js/main.e2c196e1.chunk.js.map",
     "runtime-main.js": "/8-BitBones/static/js/runtime-main.4b383042.js",
     "runtime-main.js.map": "/8-BitBones/static/js/runtime-main.4b383042.js.map",
     "static/css/2.112c8521.chunk.css": "/8-BitBones/static/css/2.112c8521.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.112c8521.chunk.css",
     "static/js/2.d0a30122.chunk.js",
     "static/css/main.2c8a7582.chunk.css",
-    "static/js/main.86754799.chunk.js"
+    "static/js/main.e2c196e1.chunk.js"
   ]
 }
