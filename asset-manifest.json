@@ -1,27 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.42a0cfe7.chunk.css",
-    "main.js": "/static/js/main.60961106.chunk.js",
-    "main.js.map": "/static/js/main.60961106.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.935a419a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.935a419a.js.map",
+    "main.css": "/static/css/main.e3c7ee48.chunk.css",
+    "main.js": "/static/js/main.16fa7758.chunk.js",
+    "main.js.map": "/static/js/main.16fa7758.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.12d4a691.js",
+    "runtime-main.js.map": "/static/js/runtime-main.12d4a691.js.map",
     "static/css/2.15db8a2d.chunk.css": "/static/css/2.15db8a2d.chunk.css",
-    "static/js/2.d0a30122.chunk.js": "/static/js/2.d0a30122.chunk.js",
-    "static/js/2.d0a30122.chunk.js.map": "/static/js/2.d0a30122.chunk.js.map",
-    "static/js/3.468c0e31.chunk.js": "/static/js/3.468c0e31.chunk.js",
-    "static/js/3.468c0e31.chunk.js.map": "/static/js/3.468c0e31.chunk.js.map",
+    "static/js/2.1a9b8e56.chunk.js": "/static/js/2.1a9b8e56.chunk.js",
+    "static/js/2.1a9b8e56.chunk.js.map": "/static/js/2.1a9b8e56.chunk.js.map",
+    "static/js/3.9202d37c.chunk.js": "/static/js/3.9202d37c.chunk.js",
+    "static/js/3.9202d37c.chunk.js.map": "/static/js/3.9202d37c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.15db8a2d.chunk.css.map": "/static/css/2.15db8a2d.chunk.css.map",
-    "static/css/main.42a0cfe7.chunk.css.map": "/static/css/main.42a0cfe7.chunk.css.map",
-    "static/js/2.d0a30122.chunk.js.LICENSE.txt": "/static/js/2.d0a30122.chunk.js.LICENSE.txt",
+    "static/css/main.e3c7ee48.chunk.css.map": "/static/css/main.e3c7ee48.chunk.css.map",
+    "static/js/2.1a9b8e56.chunk.js.LICENSE.txt": "/static/js/2.1a9b8e56.chunk.js.LICENSE.txt",
+    "static/media/4.c3f8a536.png": "/static/media/4.c3f8a536.png",
+    "static/media/6.cd3f4ab4.png": "/static/media/6.cd3f4ab4.png",
     "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
     "static/media/sneak-peak-bone.951995ae.gif": "/static/media/sneak-peak-bone.951995ae.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.935a419a.js",
+    "static/js/runtime-main.12d4a691.js",
     "static/css/2.15db8a2d.chunk.css",
-    "static/js/2.d0a30122.chunk.js",
-    "static/css/main.42a0cfe7.chunk.css",
-    "static/js/main.60961106.chunk.js"
+    "static/js/2.1a9b8e56.chunk.js",
+    "static/css/main.e3c7ee48.chunk.css",
+    "static/js/main.16fa7758.chunk.js"
   ]
 }
