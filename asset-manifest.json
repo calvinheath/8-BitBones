@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/8-BitBones/static/css/main.2ff5a48c.chunk.css",
-    "main.js": "/8-BitBones/static/js/main.aa5e6858.chunk.js",
-    "main.js.map": "/8-BitBones/static/js/main.aa5e6858.chunk.js.map",
-    "runtime-main.js": "/8-BitBones/static/js/runtime-main.b963d7d8.js",
-    "runtime-main.js.map": "/8-BitBones/static/js/runtime-main.b963d7d8.js.map",
-    "static/js/2.8085b9bf.chunk.js": "/8-BitBones/static/js/2.8085b9bf.chunk.js",
-    "static/js/2.8085b9bf.chunk.js.map": "/8-BitBones/static/js/2.8085b9bf.chunk.js.map",
-    "static/js/3.ad29e60d.chunk.js": "/8-BitBones/static/js/3.ad29e60d.chunk.js",
-    "static/js/3.ad29e60d.chunk.js.map": "/8-BitBones/static/js/3.ad29e60d.chunk.js.map",
+    "main.css": "/8-BitBones/static/css/main.2c8a7582.chunk.css",
+    "main.js": "/8-BitBones/static/js/main.86754799.chunk.js",
+    "main.js.map": "/8-BitBones/static/js/main.86754799.chunk.js.map",
+    "runtime-main.js": "/8-BitBones/static/js/runtime-main.4b383042.js",
+    "runtime-main.js.map": "/8-BitBones/static/js/runtime-main.4b383042.js.map",
+    "static/css/2.112c8521.chunk.css": "/8-BitBones/static/css/2.112c8521.chunk.css",
+    "static/js/2.d0a30122.chunk.js": "/8-BitBones/static/js/2.d0a30122.chunk.js",
+    "static/js/2.d0a30122.chunk.js.map": "/8-BitBones/static/js/2.d0a30122.chunk.js.map",
+    "static/js/3.468c0e31.chunk.js": "/8-BitBones/static/js/3.468c0e31.chunk.js",
+    "static/js/3.468c0e31.chunk.js.map": "/8-BitBones/static/js/3.468c0e31.chunk.js.map",
     "index.html": "/8-BitBones/index.html",
-    "static/css/main.2ff5a48c.chunk.css.map": "/8-BitBones/static/css/main.2ff5a48c.chunk.css.map",
-    "static/js/2.8085b9bf.chunk.js.LICENSE.txt": "/8-BitBones/static/js/2.8085b9bf.chunk.js.LICENSE.txt",
+    "static/css/2.112c8521.chunk.css.map": "/8-BitBones/static/css/2.112c8521.chunk.css.map",
+    "static/css/main.2c8a7582.chunk.css.map": "/8-BitBones/static/css/main.2c8a7582.chunk.css.map",
+    "static/js/2.d0a30122.chunk.js.LICENSE.txt": "/8-BitBones/static/js/2.d0a30122.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/8-BitBones/static/media/slick.c94f7671.ttf",
     "static/media/sneak-peak-bone.951995ae.gif": "/8-BitBones/static/media/sneak-peak-bone.951995ae.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.b963d7d8.js",
-    "static/js/2.8085b9bf.chunk.js",
-    "static/css/main.2ff5a48c.chunk.css",
-    "static/js/main.aa5e6858.chunk.js"
+    "static/js/runtime-main.4b383042.js",
+    "static/css/2.112c8521.chunk.css",
+    "static/js/2.d0a30122.chunk.js",
+    "static/css/main.2c8a7582.chunk.css",
+    "static/js/main.86754799.chunk.js"
   ]
 }
