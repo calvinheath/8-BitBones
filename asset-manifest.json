@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba07c4b3.chunk.css",
+    "main.css": "/static/css/main.42a0cfe7.chunk.css",
     "main.js": "/static/js/main.60961106.chunk.js",
     "main.js.map": "/static/js/main.60961106.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.935a419a.js",
@@ -12,7 +12,7 @@
     "static/js/3.468c0e31.chunk.js.map": "/static/js/3.468c0e31.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.15db8a2d.chunk.css.map": "/static/css/2.15db8a2d.chunk.css.map",
-    "static/css/main.ba07c4b3.chunk.css.map": "/static/css/main.ba07c4b3.chunk.css.map",
+    "static/css/main.42a0cfe7.chunk.css.map": "/static/css/main.42a0cfe7.chunk.css.map",
     "static/js/2.d0a30122.chunk.js.LICENSE.txt": "/static/js/2.d0a30122.chunk.js.LICENSE.txt",
     "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
     "static/media/sneak-peak-bone.951995ae.gif": "/static/media/sneak-peak-bone.951995ae.gif"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.935a419a.js",
     "static/css/2.15db8a2d.chunk.css",
     "static/js/2.d0a30122.chunk.js",
-    "static/css/main.ba07c4b3.chunk.css",
+    "static/css/main.42a0cfe7.chunk.css",
     "static/js/main.60961106.chunk.js"
   ]
 }
